@@ -15,6 +15,9 @@
 
  
  ### Tableau screenshots Dashboards
-![Screenshhot_Tableau3](https://user-images.githubusercontent.com/103214799/205338345-0f9acd01-0d5d-4023-a626-96a102609efa.PNG)
+ 
 ![Screenshhot_Tableau1](https://user-images.githubusercontent.com/103214799/205338347-0b2c1b70-74e6-4811-bee2-3edb2ecfbad3.PNG)
 ![Screenshhot_Tableau2](https://user-images.githubusercontent.com/103214799/205338349-2cbbb283-6625-42a3-81ed-4dffd94fa79a.PNG)
+
+### RFM Segmentation
+![Screenshhot_Tableau3](https://user-images.githubusercontent.com/103214799/205338345-0f9acd01-0d5d-4023-a626-96a102609efa.PNG)
