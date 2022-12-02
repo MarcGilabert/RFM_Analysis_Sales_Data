@@ -6,7 +6,7 @@
 
 ### Overview
 
- Analyzing sales revenue to creating a customer segmentation analysis using the RFM technique with SQL Server aand later make a visualization with Tableau
+ Analyzing sales revenue to creating a customer segmentation analysis using the RFM technique in order to distinguish loyal customers, slwwp customers for example  with SQL Server aand later make a visualization with Tableau
  
  
  
